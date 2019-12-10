@@ -1,0 +1,8 @@
+encrypt_key.h
+dp_transmitter.uvguix.fog
+*.bak
+*.dep
+*.h
+List/
+OBJ/
+DebugConfig/
