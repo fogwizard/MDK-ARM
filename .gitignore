@@ -3,6 +3,8 @@ dp_transmitter.uvguix.fog
 *.bak
 *.dep
 *.h
+*.txt
+*.ini
 List/
 OBJ/
 DebugConfig/
